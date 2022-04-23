@@ -2,8 +2,8 @@
 
 <!-- TODO: doing cutomization -->
 
-# Post Template
+### Compose
 
-```bash
-node ./scripts/compose.js
-```
+Run `node ./scripts/compose.js` to bootstrap a new post.
+
+Follow the interactive prompt to generate a post with pre-filled front matter.
